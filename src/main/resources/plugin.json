@@ -1,0 +1,7 @@
+{
+  "name": "PVPPlugin",
+  "author": "Fishbuilder",
+  "main": "PVP.PVPPlugin",
+  "description": "A plugin to change teams",
+  "version": 1.0
+}
