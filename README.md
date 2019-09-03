@@ -1,6 +1,9 @@
 ### Commands
 * `/team` to change team
 
+### TODO
+* [ ] pvp player max
+
 ### Building a Jar 
 
 `gradlew jar` / `./gradlew jar`
